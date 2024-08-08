@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/dunith nimtharu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dunith nimtharu" height="30" width="40" /></a>
 <a href="https://fb.com/dunith nimtharu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dunith nimtharu" height="30" width="40" /></a>
 <a href="https://instagram.com/dunith_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dunith_8" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shortzya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shortzya" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/shortzya" target="blank"><img align="center" src="https://www.youtube.com/@shortzya" alt="shortzya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
